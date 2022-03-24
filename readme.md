@@ -1,16 +1,18 @@
 # Description
 
-This is an repository that explain and show example of some common design patterns.
-All examples are written in JavaScript
+This is an repository that explain and show example of some common **design patterns**.
+All examples are written in **JavaScript**
 ![Design Pattern](/designPattern.png)
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="80" height="80"/> </a> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="80" height="80"/> </a>
-<a>
-<img src="https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg)](https://github.com/GalsenDev221/made.in.senegal"/>
-</a>
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="100" height="100"/> </a>
 <p/>
+<p align="left">
+  <a href="https://github.com/GalsenDev221/made.in.senegal">
+<img src="https://github.com/GalsenDev221/made.in.senegal/blob/master/assets/badge.svg"/>
+</a>
+</p>
 
 ### Introduction
 
